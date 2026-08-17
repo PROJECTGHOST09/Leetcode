@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/PROJECTGHOST09/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/PROJECTGHOST09/Leetcode/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/PROJECTGHOST09/Leetcode/tree/master/2460-apply-operations-to-an-array) |
